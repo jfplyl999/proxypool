@@ -1,5 +1,5 @@
 # your domain
-domain: dafeige.herokuapp.com
+domain: late-term-0b91.734519508.workers.dev
 
 # database url
 database_url: ""
@@ -13,4 +13,4 @@ source-files:
   # use local file
   - ./config/source.yaml
   # use web file
-  - https://dafeige.herokuapp.com/source.yaml
+  - https://late-term-0b91.734519508.workers.dev/source.yaml
