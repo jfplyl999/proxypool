@@ -11,6 +11,6 @@ cf_key: ""
 # source definition file
 source-files:
   # use local file
-  - ./config/source.yaml
+  
   # use web file
-  - https://late-term-0b91.734519508.workers.dev/source.yaml
+  - https://raw.githubusercontent.com/jfplyl999/v2ray/master/source.yaml
